@@ -32,8 +32,7 @@ Solidity  ·  EVM  ·  Foundry   ·  Python · Invariant Testing  ·  Fuzzing  �
 
 | Contest | Platform | Date | Status | Accepted Findings | Notes | Link |
 |---------|----------|------|--------|-------------------|-------|------|
-|Revert Finance|Cantina|03.2026|In judging|-|potential High|[link](https://cantina.xyz/code/efb6f308-f13b-4110-aff8-0d67181608dd/overview)|
-|Intuition|Code4rena|03.2026|Finished|0/1|-|[link](https://code4rena.com/audits/2026-03-intuition)|
+|Revert Finance|Cantina|06.2026|Finished|1H, 2I|-|[link](https://cantina.xyz/u/Berring)|
 |Hotstuff|Sherlock|01.2026|Finished|Airdrop|initial 1H/1M later reclassified as OOS|[link](https://audits.sherlock.xyz/contests/1233)|
 |USG-Tangent|Sherlock|09.2025|Finished|1M|ERC4626 invariant break|[link](https://audits.sherlock.xyz/contests/1073/voting/169)|
 |Curves|Code4rena|01.2024|Finished|1H|access control|[link](https://github.com/code-423n4/2024-01-curves-findings/issues/866)|
