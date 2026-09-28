@@ -42,7 +42,7 @@ Solidity  ·  EVM  ·  Foundry   ·  Python · Invariant Testing  ·  Fuzzing  �
 
 | Protocol | Date | Status | Potential Severity |
 |----------|------|--------|--------------------|
-| NDA | 04.2026 | Under review | 2 High |
+| NDA | 04.2026 | Closed | 2 High |
 | Hyperliquid | 03.2026 | Closed as duplicate | 1 High |
 
 
