@@ -31,7 +31,7 @@ Solidity  ·  EVM  ·  Foundry   ·  Python · Invariant Testing  ·  Fuzzing  �
 ## Public Contests
 | Contest | Platform | Date | Status | Accepted Findings | Notes | Link |
 |---------|----------|------|--------|-------------------|-------|------|
-|Firelight|Immunefi|08.2026|Confirmed|1H|-|[link](https://x.com/berr1ng/status/2092160492659679623)|
+|Firelight|Immunefi|08.2026|Finished|1H|-|[link](https://x.com/berr1ng/status/2092160492659679623)|
 |Tare|Sherlock|07.2026|Finished|Airdrop|initial 2M later reclassified as OOS|[link](https://audits.sherlock.xyz/contests/1234/leaderboard)|
 |Revert Finance|Cantina|06.2026|Finished|1H, 2I|-|[link](https://cantina.xyz/u/Berring)|
 |Hotstuff|Sherlock|01.2026|Finished|Airdrop|initial 1H/1M later reclassified as OOS|[link](https://audits.sherlock.xyz/contests/1233/leaderboard)|
